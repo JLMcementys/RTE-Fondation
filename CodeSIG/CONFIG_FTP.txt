@@ -1,0 +1,7 @@
+CONFIG
+
+--FTP
+
+2,FTP_Host,"91.134.29.102"
+2,FTP_User,"CEM001FTP"
+2,FTP_Password,"!2019CF"

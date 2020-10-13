@@ -1,0 +1,9 @@
+CONFIG
+
+--BaseDeDonnees
+
+2,BDD,1
+2,BDD_Host,"91.134.29.102"
+2,BDD_DataBase,"RTE"
+2,BDD_User,"postgres"
+2,BDD_Password,"cemadmin2019"

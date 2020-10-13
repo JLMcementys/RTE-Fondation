@@ -1,0 +1,10 @@
+numpy
+datetime
+os
+time
+csv
+psycopg2
+ftplib
+tkinter
+functools
+shutil
